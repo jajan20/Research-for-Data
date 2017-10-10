@@ -7,7 +7,7 @@ Door:   **Jamie Jansen**
 * [Hypothese](#hypothese)
 * [Onderzoek](#onderzoek)
 * [Proces](#proces)
-    * [Mogelijke onderwerpen](#mogelijke)
+    * [Onderwerpen](#onderwerpen)
     * [Hypotheses](#hypotheses)   
     * [Zoekwoorden](#zoekwoorden)
 * [Bronnen](#bronnen)
@@ -47,7 +47,7 @@ Hieronder vindt je een aantal bronnen die antwoord geven op de onderzoeksvragen.
 ## Proces
 Voordat ik dit onderwerp goed in de vingers had heb ik flink wat tijd gespendeerd aan het vinden van een goede invalshoek. Door veel feedback van klasgenoten en mijn docent ben ik uiteindelijk tot dit resultaat gekomen.
 
-### Mogelijke Onderwerpen
+### Onderwerpen
 * Analoog naar digitale tijd fotografie/video.
 * Hoeveel foto’s er gemaakt worden op resorts, buiten de grenzen en hoe technologie voor meer toerisme zorgt.
 * Inschatting van spiegelreflex en smartphone uploads.
