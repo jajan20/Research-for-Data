@@ -1,6 +1,8 @@
 # Fotografie & Technologie - *Research Case*
 Door:   **Jamie Jansen**
 
+![cover](preview.png)
+
 ## Inhoudsopgave
 
 * [Inleiding](#inleiding)
