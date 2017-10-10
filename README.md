@@ -1,7 +1,7 @@
 # Fotografie & Technologie - *Research Case*
 Door:   **Jamie Jansen**
 
-![cover](screenshot_01.png)
+![cover](screenshot_03.png)
 
 ## Inhoudsopgave
 
