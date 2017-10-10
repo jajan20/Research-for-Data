@@ -7,7 +7,7 @@ Door:   **Jamie Jansen**
 * [Hypothese](#hypothese)
 * [Onderzoek](#onderzoek)
 * [Proces](#proces)
-    * [Mogelijke onderwerpen](#mogelijke onderwerpen)
+    * [Mogelijke onderwerpen](#mogelijke)
     * [Hypotheses](#hypotheses)   
     * [Zoekwoorden](#zoekwoorden)
 * [Bronnen](#bronnen)
