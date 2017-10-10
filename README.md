@@ -1,7 +1,7 @@
 # Fotografie & Technologie - *Research Case*
 Door:   **Jamie Jansen**
 
-![cover](preview.png)
+![cover](screenshot_01.png)
 
 ## Inhoudsopgave
 
@@ -60,6 +60,9 @@ Voordat ik dit onderwerp goed in de vingers had heb ik flink wat tijd gespendeer
 * Groei van smartphone sales schopt professionele fotograaf uit z’n werk.
 * Apple zorgt eigenhandig voor de groei van actieve gebruikers op facebook/instagram.
 * Videografie heeft het overgenomen van fotografie.
+
+![fotografischeWinkels](preview.png)
+![cover](screenshot_02.png)
 
 ### Zoekwoorden
 > fotografie werken tijd | fotografie beroep cijfers | camera cijfers | camera pixel years | camera pixel society | photography years growth | datasets photography | datasets pixel & camera | analysis camera | lens space | instagram tags dataset | camera statistics filetype:pdf | photography statistics filetype:pdf | camera | instagram global statistics | photo sharing report 2017 | photo sharing report filetype: pdf | photography statistics filetype: csv | smartphone users countries | smartphone users | Frequency of use of smartphone camera applications | iphone sales 2013 - 2017 | Global smartphone shipments by vendor | flickr statistics company | Most popular photo sharing sites | photos uploaded statistics | Number of Facebook users worldwide 2008-2017
