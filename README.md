@@ -97,6 +97,12 @@ Een artikel dat geschreven is voor photoreview. Een Australische website dat ook
 
 **Analyse** Dit komt uit de HvA databank, maar oorspronkelijk is het gepubliceerd in de financial times. Een grote Amerikaanse krant.
 
+### PDF Files
+[Photosharing: Trillions and Rising](gx-tmt-2016-online-photo-sharing.pdf)
+[Re-imagining Photography in the Mobile Age](9.Keep_JCT_Nov14_128to146Com.pdf)
+[Photo Review - Issue 64, 2015](Preview_Photo_Review_Jun_Aug_2015_Issue_64.pdf)
+[Photos & Imaging Market - Trend Report 2016](Trendreport_2016_EN_Web.pdf)
+
 ## Datasets
 * [Imaging Devices in the Netherlands](http://www.portal.euromonitor.com.rps.hva.nl:2048/portal/analysis/tab)
 * [Computers and Peripherals in the Netherlands](http://www.portal.euromonitor.com.rps.hva.nl:2048/portal/analysis/tab)
